@@ -1,0 +1,21 @@
+.message {
+  text-align: center;
+  font-size: 1.8rem;
+  width: 80%;
+  margin: 2rem auto;
+  font-weight: 600;
+}
+
+.mapmessage {
+  text-align: center;
+  font-size: 1.8rem;
+  width: 100%;
+  margin: 2rem;
+  width: 100%;
+
+  background: radial-gradient(#616161, transparent);
+  position: absolute;
+  border-radius: -5%;
+  z-index: 10000;
+  top: 20p;
+}
